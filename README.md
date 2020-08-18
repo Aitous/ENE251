@@ -61,3 +61,11 @@ We were also interested in the MMP evolution with the LPG fraction and we got:
 
 
 ![exp_vis_LBC](visc_vs_LPG.PNG)
+
+And for the MMP determination we reproduce figures from the cited paper (SPE 116823):
+
+![fig1_paper](fig_1_paper.png)
+
+![fig2_paper](fig_2_paper.png)
+
+![fig3_paper](fig4_PartA_2.PNG)
