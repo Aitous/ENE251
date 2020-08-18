@@ -37,7 +37,9 @@ Lumping example:
 Results vs experiment:
 ----------------------
 
-![Test Image 1](CCE_updated_vol.PNG)
+![CCE_result](CCE_updated_vol.PNG)
+
+![CCE_exp](CCE_experimental_Python.PNG)
 
 
 -PartB: In this part we are going to use the mixing-cell model presented in SPE 116823 paper to develop an algorithm to determine the MMP (Minimum Miscibility Pressure) for different compositions of LPG (Liquifed Petroleum Gas) and CO2. Next, we develop a routine to compute viscosity using LBC correlations and the corresponding states method.
