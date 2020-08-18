@@ -6,7 +6,7 @@ There are 2 parts of this project:
 
 -Part A: The objective is to lump the components trying different expansions using Pedersen et al procedure. We then run a CME (constant mass expansion) experiment to determine the Pressure Saturation. We try different EOS in doing so, the SRK (Soave-Redlich-Kwong) and the PR (Peng-Robinson). We also experiment with different options: using binary cofficients or not, different lumpings,...The plots are confronted to the experiment and you can see the results in the figure.
 
-|Component | Mole % | Tc (K) |Pc (atm) | $\omega$ | MW (g/mol)|
+|Component | Mole % | Tc (K) |Pc (atm) | omega | MW (g/mol)|
 |----------|--------|--------|---------|----------|-----------|
 |Hydrogen Sulfide | 0 |  |   |  34.08|
 |Carbon Dioxide | 0.44 | 304.2 | 72.9 | 0.228 | 44.01|
