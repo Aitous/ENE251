@@ -11,8 +11,10 @@ Over Parts A and B, the elements of the project include the followin:
 
 The 2 parts of this project are defined as follows:
 
--Part A: The objective is to lump the components trying different expansions using Pedersen et al procedure. We then run a CME (constant mass expansion) experiment to determine the Pressure Saturation. We try different EOS in doing so, the SRK (Soave-Redlich-Kwong) and the PR (Peng-Robinson). We also experiment with different options: using binary cofficients or not, different lumpings,...The plots are confronted to the experiment and you can see the results in the figure. An example of a possible lumping can be seeing below:
+-Part A: The objective is to lump the components trying different expansions using Pedersen et al procedure. We then run a CME (constant mass expansion) experiment to determine the Pressure Saturation. We try different EOS in doing so, the SRK (Soave-Redlich-Kwong) and the PR (Peng-Robinson). We also experiment with different options: using binary cofficients or not, different lumpings,...The plots are confronted to the experiment and you can see the results in the figure. An example of a possible lumping and the CME results can be seeing below:
 
+Lumping example:
+----------------
 |Component | Mole % | Tc (K) |Pc (atm) | omega | MW (g/mol)|
 |----------|--------|--------|---------|----------|-----------|
 |Hydrogen Sulfide | 0 |  |   |  34.08|
@@ -31,6 +33,12 @@ The 2 parts of this project are defined as follows:
 |C(19-26) | 9.34 | 759.4 | 17.8 | 0.876 | 308 |
 |C(27-37)  | 5.78 | 875.1 | 14.2 | 1.0465 | 436.5|
 |C(38+) | 3.67 | 1114.1 | 12 | 0.8191 | 722.8 |
+
+Results vs experiment:
+----------------------
+
+![Test Image 1](CCE_updated_vol.PNG)
+
 
 -PartB: In this part we are going to use the mixing-cell model presented in SPE 116823 paper to develop an algorithm to determine the MMP (Minimum Miscibility Pressure) for different compositions of LPG (Liquifed Petroleum Gas) and CO2. Next, we develop a routine to compute viscosity using LBC correlations and the corresponding states method.
 
