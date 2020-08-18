@@ -56,3 +56,8 @@ Results:
 Experiment:
 
 ![exp_vis_LBC](exp_vis_vs_pressure.PNG)
+
+We were also interested in the MMP evolution with the LPG fraction and we got:
+
+
+![exp_vis_LBC](visc_vs_LPG.PNG)
