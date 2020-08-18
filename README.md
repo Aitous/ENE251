@@ -36,11 +36,12 @@ Lumping example:
 
 Results vs experiment:
 ----------------------
-
 Result:
+
 ![CCE_result](CCE_updated_vol.PNG)
 
 Experiment:
+
 ![CCE_exp](CCE_experimental_Python.PNG)
 
 
@@ -49,7 +50,9 @@ Experiment:
 We get the following results concerning the viscosity results where we confront experiment to modelisation:
 
 Results:
+
 ![vis_LBC](visc_vs_pressure_LBC.PNG)
 
 Experiment:
+
 ![exp_vis_LBC](exp_vis_vs_pressure.PNG)
