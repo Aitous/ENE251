@@ -4,10 +4,10 @@ In this repository, you will find the code used to produce a lumping for the oil
 
 Over Parts A and B, the elements of the project include the followin:
 
-• The coding of a routine for expansion and pseudoization of the compositional description of a reservoir fluid.
-• Tuning of the pseudocomponent EOS properties.
-• Coding of a mixing-cell algorithm for determining MMP.
-• Coding of a corresponding states viscosity routine.
+- The coding of a routine for expansion and pseudoization of the compositional description of a reservoir fluid.
+- Tuning of the pseudocomponent EOS properties.
+- Coding of a mixing-cell algorithm for determining MMP.
+- Coding of a corresponding states viscosity routine.
 
 The 2 parts of this project are defined as follows:
 
